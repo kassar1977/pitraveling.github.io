@@ -282,15 +282,7 @@ nav ul li a:hover{
     }
     
     .color-box{
-    position: absolute;
-    right: 130px;
-    background: linear-gradient(to right, #ff469f, #ff6062);
-    height: 100%;
-    width: 25%;
-    z-index: -1;
-    border-radius: 0 20px 20px 0;
-    transition: translateX(75px);
-    margin-right: 40px;
+    display: none;
     } 
     .hamburger-box{
     width 65px;
