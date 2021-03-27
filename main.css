@@ -31,7 +31,6 @@
     font-weight: bold;
     padding: 10px;
     font-size: 30px;
-    margin-left: 100px;
 }
 
 
@@ -45,10 +44,6 @@
 nav{
     flex: 1;
     text-align: right;
-}
-
-nav ul{
-    margin-right: 100px;
 }
 
 nav ul li{
