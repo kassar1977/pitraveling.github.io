@@ -12,7 +12,6 @@
     padding-right: 8%;
     box-sizing: border-box;
     overflow: hidden;
-    background: #fff;
 }
 
 .navbar{
@@ -28,7 +27,7 @@
 .navbar h2{
     margin-left: 10px;
     color: #5D6D7E;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Train One', cursive;
     font-weight: bold;
     border: 3px solid #5D6D7E;
     padding: 10px;
@@ -59,15 +58,16 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: #8E44AD;
+    color: ;
     font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;
+    color: #8E44AD;
 }
 
 nav ul li a:hover{
-    color: #FA5F5F;
-    border-bottom: 2px solid #5D6D7E;
+    color: #C39BD3;
+    border-bottom: 2px solid #8E44AD;
 }
 
 .row{
@@ -242,9 +242,6 @@ nav ul li a:hover{
         font-size: 25px;
         font-weight: 100;
     }
-    .menu-icon{
-        display: flex;
-    }
     
     .row{
         border-radius: 10px;
@@ -281,7 +278,7 @@ nav ul li a:hover{
     }
     
     .color-box{
-    display: none;
+        display: none;
     } 
     .hamburger-box{
     width 65px;
@@ -302,7 +299,7 @@ nav ul li a:hover{
     background: url(icon-x.png);
     background-repeat: no-repeat;
     background-size: 40px;
-        cursor: pointer;
+    cursor: pointer;
     }
     .navigation{
         overflow: hidden;
@@ -331,11 +328,10 @@ nav ul li a:hover{
     .footer{
     height: 9px;
 }
-
-.footer-text{
-    text-align: center;
-    font-size: 10px;
-}
+    .footer-text{
+        text-align: center;
+        font-size: 10px;
+    }
 
 }
 
