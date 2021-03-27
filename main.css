@@ -274,10 +274,16 @@ nav ul li a:hover{
     .col-1 h3{
         font-size: 15px;
     }
-    
-    .color-box{
-        display: none;
-    } 
+        .color-box{
+    position: absolute;
+    right: 150px;
+    background: #8E44AD;
+    height: 100%;
+    width: 30%;
+    z-index: -1;
+    border-radius: 0 20px 20px 0;
+    transform: translateX(150px);
+}
     .hamburger-box{
     width 65px;
     height: 40px;
