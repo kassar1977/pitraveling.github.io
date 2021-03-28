@@ -40,6 +40,7 @@
 .navbar p{
     color: #fff;
     font-size: 30px;
+    letter-spacing: 1px;
 }
 
 .navline{
@@ -188,7 +189,8 @@ nav ul li a:hover{
     border-radius: 10px;
 }
     .navbar p{
-        font-size: 23px;
+        font-size: 25px;
+        font-weight: bold;
     }
     nav{
     text-align: center;
