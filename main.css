@@ -223,8 +223,8 @@ nav ul li a:hover{
     margin-top: 5px;
     border-radius: 10px;
 }
-    .navbar {
-        font-size: 25px;
+    .navbar p{
+        font-size: 23px;
         margin-left: 0px;
     }
     nav{
