@@ -112,30 +112,6 @@ nav ul li a:hover{
     margin: 100px 0;
 }
 
-.col-1{
-    flex-basis: 40%;
-    position: relative;
-    margin-left: 50px;
-}
-
-.col-1 h2{
-    font-size: 54px;
-    
-}
-
-.col-1 h4{
-    font-size: 25px;
-    color: #707070;
-    font-weight: 100;
-    margin: 20px 0 10px;
-}
-
-.col-1 p{
-    font-size: 16px;
-    color: #b7b7b7;
-    font-weight: 100;  
-}
-
 
 .more{
     width: 140px;
@@ -147,21 +123,6 @@ nav ul li a:hover{
     font-size: 18px;
     color: #fff;
     font-weight: bold;
-}
-
-.col-2{
-    position: relative;
-    flex-basis: 60%;
-    display: flex;
-    align-items: center;
-    width: 100%;
-    height: 55vh;
-}
-
-.col-2 #slider{
-    width: 80%;
-    height: 90%;
-    border-radius: 20px;
 }
 
 
