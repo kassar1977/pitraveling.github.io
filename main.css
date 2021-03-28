@@ -37,7 +37,7 @@
     align-items: center;
 }
 
-.navbar h2{
+.navbar p{
     color: #690D0A;
     font-family: 'Raleway', sans-serif;
     font-size: 30px;
@@ -223,8 +223,8 @@ nav ul li a:hover{
     margin-top: 5px;
     border-radius: 10px;
 }
-    .navbar h2{
-        font-size: 22px;
+    .navbar {
+        font-size: 25px;
         margin-left: 0px;
     }
     nav{
