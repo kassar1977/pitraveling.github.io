@@ -39,9 +39,7 @@
 
 .navbar p{
     color: #690D0A;
-    font-family: 'Raleway', sans-serif;
     font-size: 30px;
-    letter-spacing: 1px;
 }
 
 .navline{
@@ -224,7 +222,7 @@ nav ul li a:hover{
     border-radius: 10px;
 }
     .navbar p{
-        font-size: 23px;
+        font-size: 25px;
         margin-left: 0px;
     }
     nav{
