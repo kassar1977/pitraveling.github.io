@@ -76,10 +76,10 @@
 .main-text a{
     text-decoration: none;
     font-size: 20px;
-    border: 1px solid blue;
+    border: 1px solid #1F6FCE;
     border-radius: 12px;
     padding: 10px 20px 10px 20px;
-    background-color: blue;
+    background-color: #1F6FCE;
     color: #fff;
 }
 
