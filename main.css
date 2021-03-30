@@ -172,6 +172,63 @@ nav ul li a:hover{
 }
 
 
+/*About page*/
+
+.about p{
+    margin-top: 40px;
+    text-align: left;
+    font-size: 20px;
+}
+
+/*Visa for Indian*/
+
+.india h2{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.india ul{
+    list-style: none;
+    font-size: 20px;
+}
+
+.india ul li a{
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+
+
+/*Visa for Pakistanis*/
+
+.pak h2{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.pak ul{
+    list-style: none;
+    font-size: 20px;
+}
+
+.pak ul li a{
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+
+
+/*Work Permit page*/
+
+.permit2 .permit-img1{
+    width: 100%;
+    height: 90%;
+    }
+
+
+
 
 @media only screen and (max-width: 700px){
     .container{
@@ -278,61 +335,6 @@ nav ul li a:hover{
 }
 
 }
-
-/*About page*/
-
-.about p{
-    margin-top: 40px;
-    text-align: left;
-    font-size: 20px;
-}
-
-/*Visa for Indian*/
-
-.india h2{
-    margin-top: 40px;
-    text-align: center;
-    font-size: 25px;
-}
-
-.india ul{
-    list-style: none;
-    font-size: 20px;
-}
-
-.india ul li a{
-    text-decoration: none;
-    color: darkblue;
-    font-weight: bold;
-}
-
-
-/*Visa for Pakistanis*/
-
-.pak h2{
-    margin-top: 40px;
-    text-align: center;
-    font-size: 25px;
-}
-
-.pak ul{
-    list-style: none;
-    font-size: 20px;
-}
-
-.pak ul li a{
-    text-decoration: none;
-    color: darkblue;
-    font-weight: bold;
-}
-
-
-/*Work Permit page*/
-
-.permit2 .permit-img1{
-    width: 100%;
-    height: 90%;
-    }
 
 
 
