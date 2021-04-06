@@ -1,8 +1,6 @@
-function toggleMenu(){
-    const menuToggle = document.querySelector(".toggle");
-    const navigation = document.querySelector(".navigation");
-    menuToggle.classList.toggle("active")
-    navigation.classList.toggle("active")
+function toggle() {
+    var header = document.getElementById("header");
+    header.classList.toggle("active");
 }
 
 
