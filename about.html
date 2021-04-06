@@ -1,45 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="main.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
     <title>Pak India Traveling</title>
 </head>
-<body class="allback">
-   <div class="container">
-       <div class="navbar">
-           <p>PakIndia Traveling</p>
-           <nav class="sidebar">
-               <ul class="navigation">
-                   <li><a href="index.html">Home</a></li>
-                   <li><a href="about.html">About</a></li>
-                   <li><a href="permit.html">Links to Get Work Permit</a></li>
-                   <li><a href="india.html">Visa For Indians</a></li>
-                   <li><a href="pak.html">Visa For Pakistanis</a></li>
-               </ul>
-           </nav>
-           
-           <div class="hamburger-box">
-               <div class="toggle" onclick="toggleMenu();"></div>
-           </div>
-           </div>
-           <div class="navline"></div>
-           
-        <div class="about">
+
+<body class="all-bg">
+    <header id="header">
+        <p class="logo">PakIndia Traveling</p>
+        <ul>
+            <li><a href="index.html" onclick="toggle();">Home</a></li>
+            <li><a href="about.html" onclick="toggle();">About</a></li>
+            <li><a href="permit.html" onclick="toggle();">Work Permit</a></li>
+            <li><a href="india.html" onclick="toggle();">Visa for Indians</a></li>
+            <li><a href="pak.html" onclick="toggle();">Visa for Pakistanis</a></li>
+        </ul>
+        <div class="toggle" onclick="toggle();"></div>
+    </header>
+
+
+    <div class="about">
         <p>We provide all information about the traveling visas, working visas (work permits) of all countries around the world, to the Indian and Pakistani people who wish to travel or work in foreign countries.<br>
-        <br>
-        Our aim is to help Indian and Pakistani people to provide them useful information time to time to travel overseas, therefore we check and update information every week.
-        <br>
-        <br>
-          We are not traveling agent and we do not provide traveling visa, working visa (work permit), and we do not ask for any payments, therefore we inform and ask the visitors of our website that please do not pay to anyone on the behalf of our website. 
-          </p>
-       </div>
-   </div>
-   
-   <script src="app.js"></script>
+            <br>
+            Our aim is to help Indian and Pakistani people to provide them useful information time to time to travel overseas, therefore we check and update information every week.
+            <br>
+            <br>
+            We are not traveling agent and we do not provide traveling visa, working visa (work permit), and we do not ask for any payments, therefore we inform and ask the visitors of our website that please do not pay to anyone on the behalf of our website.
+        </p>
+    </div>
+
+
+    <script src="app.js"></script>
 </body>
+
 </html>
